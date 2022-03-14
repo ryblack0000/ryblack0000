@@ -2,10 +2,10 @@
  
 - 📚 Data Analytics bootcamp graduate (Dec 2021)
 - 💾 Skilled in Excel / Sheets, SQL, Tableau, Python, Adobe (InDesign/Photoshop)
-- ⛺️Continuing to level up in CRM expertise through Salesforce Trailhead (Expeditioner Rank)
-- 💎8+ years of Sales and Leadership experience gained in luxury retail 
-- 👔Strengths: communication, interpersonal skills, attention to detail, training / mentorship
-- 👍🏻I’m a people-person! I enjoy relationship building and team collaboration
+- ⛺️ Ranger Ranking on Salesforce Trailhead and continuing to level up in CRM expertise
+- 💎 8+ years of Sales and Leadership experience gained in luxury retail 
+- 👔 Strengths: communication, interpersonal skills, attention to detail, training / mentorship
+- 👍 🏻I’m a people-person! I enjoy relationship building and team collaboration
 
 ### 💻For full portfolio, including links to my Tableau Dashboards, visit www.ryanblackadar.com
 
