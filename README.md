@@ -1,6 +1,6 @@
 ## Hello! I’m Ryan, and here is some background on me… 👋🏻 
  
-- 📚 Data Analytics bootcamp graduate (Dec 2021)
+- 📚 Data Analytics bootcamp graduate (Dec 2021, Juno College)
 - 💾 Skilled in Excel / Sheets, SQL, Tableau, Python, Adobe (InDesign/Photoshop)
 - ⛺️ Ranger Ranking on Salesforce Trailhead and continuing to level up in CRM expertise
 - 💎 8+ years of Sales and Leadership experience gained in luxury retail 
