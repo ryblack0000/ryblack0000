@@ -1,4 +1,4 @@
-##Hello! I’m Ryan, and here is some background on me… 👋🏻 
+## Hello! I’m Ryan, and here is some background on me… 👋🏻 
  
 📚 Data Analytics bootcamp graduate (Dec 2021)
 💾 Skilled in Excel / Sheets, SQL, Tableau, Python, Adobe (InDesign/Photoshop)
@@ -7,7 +7,7 @@
 👔Strengths: communication, interpersonal skills, attention to detail, training / mentorship
 👍🏻I’m a people-person! I enjoy relationship building and team collaboration
 
-###💻For full portfolio, including links to my Tableau Dashboards, visit www.ryanblackadar.com
+### 💻For full portfolio, including links to my Tableau Dashboards, visit www.ryanblackadar.com
 
 
 <!--
